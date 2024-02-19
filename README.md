@@ -31,5 +31,6 @@ A collection of projects and activities carried out for The Complete 2024 Web De
 ➕ Section 21 //
 ➕ Section 22 //
 ➕ Section 23 //
+...
 
 
