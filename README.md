@@ -4,7 +4,8 @@ A collection of projects and activities carried out for The Complete 2024 Web De
 
 ## Technologies
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
 
 ## Complete Sections:
