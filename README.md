@@ -1,14 +1,14 @@
-# The Complete 2024 Web Development Bootcamp - Udemy #
+# 📔 The Complete 2024 Web Development Bootcamp - Udemy #
 
 A collection of projects and activities carried out for The Complete 2024 Web Development Bootcamp course from Udemy.
 
-## Technologies
+## 🚀 Technologies
 
 - HTML
 - CSS
 - JavaScript
 
-## Complete Sections:
+## 🧮 Sections:
 ☑️ Section 1 //
 ☑️ Section 2 //
 ☑️ Section 3 //
