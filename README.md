@@ -14,8 +14,8 @@ A collection of projects and activities carried out for The Complete 2024 Web De
 ☑️ Section 3 //
 ☑️ Section 4 //
 ☑️ Section 5 //
-➕ Section 6 //
-➕ Section 7 //
+☑️ Section 6 //
+☑️ Section 7 //
 ➕ Section 8 //
 ➕ Section 9 //
 ➕ Section 10 //
